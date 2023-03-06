@@ -44,8 +44,9 @@ TABLE OF CONTENTS
 3. When and with whom do we share your personal information?
 4. What are your privacy rights?
 5. Do California residents have specific privacy rights?
-6. Do we make updates to this notice?
-7. How can you contact us about this notice?
+6. Is our app suitable for childeren?
+7. Do we make updates to this notice?
+8. How can you contact us about this notice?
 
 
 1. WHAT INFORMATION DO WE COLLECT?
@@ -80,10 +81,17 @@ if you have questions or comments about your privacy rights, you may email us at
 5. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 Yes, if you are a resident of California, you are granted specific rights regarding acces to your personal information.
 
-6. DO WE MAKE UPDATES TO THIS NOTICE?
+6. IS OUR APP SUITABLE FOR CHILDEREN?
+Our app is targeted at both adults and childeren. Our app is compliant with the U.S. Chilren's Online Privacy and Protection Act (COPPA) and E.U General Data Protection Regulation (GDPR).
+Our app does not have any adult content, api's, no gambling, violence, gore or shocking content.
+There are no links to potentially harming websites.
+There are no ads shown in the application.
+There are in app purchases.
+
+7. DO WE MAKE UPDATES TO THIS NOTICE?
 Yes, we will make updates to this notice as necessary to stay compliant with relevent laws.
 
-7. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+8. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 You can always contact us via this mail: Lukasvandenbranden@gmail.com.
 
 
